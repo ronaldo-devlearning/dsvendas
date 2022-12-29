@@ -1,8 +1,8 @@
-import Routes from 'Routes'
+import MyRoutes from 'MyRoutes'
 
 function App() {
   return (
-    <Routes />
+    <MyRoutes />
   )
 }
 
