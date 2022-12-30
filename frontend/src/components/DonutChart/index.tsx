@@ -11,8 +11,8 @@ type ChartData = {
 
 function DonutChart() {
 
-    //FORMA ERRADA
-    //let chartData : ChartData = { labels: [], series: []}
+    /*FORMA ERRADA
+    let chartData : ChartData = { labels: [], series: []}*/
 
     const[chartData, setChartData] = useState<ChartData>({ labels: [], series: []})
 
